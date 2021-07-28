@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author rakesh
+ * @author sathaiah balaji
  */
 public class Q2 {
      public static void main(String args[])
@@ -43,7 +43,7 @@ class numberformat
    public static void main(String args[])
    {
       try{
-	 int num=Integer.parseInt ("rakesh") ;
+	 int num=Integer.parseInt ("sathaiah") ;
 	 System.out.println(num);
       }catch(NumberFormatException e){
 	  System.out.println("Number format exception occurred");
