@@ -7,7 +7,7 @@ package LABNO9;
 
 /**
  *
- * @author rakesh
+ * @author sathaiah balaji
  */
 import java.util.InputMismatchException;
 import java.util.Scanner;
